@@ -1,0 +1,12 @@
+benign_requests,200
+bad_agent,12
+uri_enumeration,9
+shady_uri,8
+comment_spam,1
+directory_traversal,1
+sql_injection,1
+xss,1
+wp_login_bruteforce,0
+wordpress_xmlrpc_dos,0
+drupalgeddon,0
+oracle_weblogic_rce,1
